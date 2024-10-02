@@ -1,0 +1,31 @@
+h1 {
+
+    text-align: center;text-decoration: wavy;
+}
+
+h4{
+
+    text-align: center;
+}
+
+p {
+
+    width: 800px;margin: 0 auto;
+}
+
+#main {
+
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(77, 67, 54);
+    width: 500px;
+    padding: 20px 20px 20px 20px;
+}
+
+.a {
+
+    border: 5px solid cadetblue;
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(209, 177, 227);
+
+}
